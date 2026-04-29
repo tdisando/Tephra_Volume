@@ -1,5 +1,12 @@
 # Isopach_thinning
-Understanding semi-log curves of root-square area ($\sqrt{A}$; $km^2$) vs. thickness ($cm$)
+Understanding semi-log curves of root-square area ($\sqrt{A}$; $km^2$) vs. thickness ($cm$).
+
+## About the model
+- Deposition probability per distance step
+- Particles of a given size have a fixed terminal velocity → they land within a characteristic radius
+- The plume spreads laterally by diffusion → mass per unit area decreases outward
+- The integral of all size classes produces the bulk thinning curve
+- Estimate tephra volume
 
 Inspired by the sustained Plinian columns characterised by single dominant transport pathways in Pyle (1989; https://doi.org/10.1007/BF01439773), the complex long‑duration behaviour expressed as two‑segment or broken‑exponential thinning in Fierstein & Nathenson (1992; https://doi.org/10.1007/BF00278005), the continuous proximal‑to‑distal range phenomena described by Bonadonna & Houghton (2005; https://doi.org/10.1007/s00445-004-0386-2), and the characteristic transport length with variable spread proposed by Bonadonna & Costa (2012; https://doi.org/10.1130/G32769.1).
 
