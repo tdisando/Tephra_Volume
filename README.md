@@ -1,4 +1,4 @@
-# Isopach_thinning
+# Isopach Thinning Analysis
 Understanding semi-log curves of root-square area ($\sqrt{A}$; $km^2$) vs. thickness ($cm$).
 
 ## About the model
