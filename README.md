@@ -1,6 +1,6 @@
 # Isopach Thinning Analysis & Tephra Volume Estimation
 
-A browser-based tool for fitting isopach thinning curves and estimating tephra-fall deposit volumes. Open `tephra_isopach_thinning.html` directly — no installation needed.
+A browser-based tool for fitting isopach thinning curves and estimating tephra-fall deposit volumes
 
 ---
 
