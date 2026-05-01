@@ -31,3 +31,5 @@ Users can input thickness and area parameters through the provided interfaces. M
 
 ### Selecting Curves
 Once the parameters are entered, users can select appropriate curves from the displayed options. Each curve corresponds to different models and can be analyzed to draw conclusions based on the inputs provided.
+
+
