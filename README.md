@@ -82,3 +82,4 @@ Pyle, D. M. (1989). The thickness, volume and grainsize of tephra fall deposits.
 
 Released under the [MIT License](LICENSE). Free to use, modify, and redistribute with attribution.
 
+*Made with ❤️ for the volcanology community*
