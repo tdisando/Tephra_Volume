@@ -74,6 +74,8 @@ Bonadonna, C. & Houghton, B. F. (2005). Total grain-size distribution and volume
 
 Fierstein, J. & Nathenson, M. (1992). Another look at the calculation of fallout tephra volumes. *Bulletin of Volcanology*, 54, 156–167. https://doi.org/10.1007/BF00278005
 
+Pyle, D. M. (1990). New estimates for the volume of the Minoan eruption. Thera and the Aegean world III, 2, 113-121.
+
 Pyle, D. M. (1989). The thickness, volume and grainsize of tephra fall deposits. *Bulletin of Volcanology*, 51, 1–15. https://doi.org/10.1007/BF01439773
 
 ---
